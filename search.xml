@@ -31,17 +31,6 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>链接</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -56,6 +45,61 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>编程</title>
+      <link href="/Program/index.html"/>
+      <url>/Program/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摄影</title>
+      <link href="/Photography/index.html"/>
+      <url>/Photography/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/Travel/index.html"/>
+      <url>/Travel/index.html</url>
+      
+        <content type="html"><![CDATA[<hr><p>title: 旅行<br>date: 2023-6-10</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学习</title>
+      <link href="/Learn/index.html"/>
+      <url>/Learn/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
